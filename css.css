@@ -1,0 +1,60 @@
+#nen{
+	width:100%;
+	background-image: url(img/nen2.jpg);
+}
+#khung{
+	width: 1020px;
+	margin: auto;
+	background-image:;
+	background-color:;
+}
+#dau{
+	color:#0FF
+	width: 100%;
+	min-height: 100px;
+	padding-top: 10px;
+	background-color:;
+	background-color: #000;
+}
+#giua{ 
+	width:100%; 
+	min-height: 500px; 
+	clear: both;
+	background-color:;
+}
+#trai{
+	width: 200px;
+	min-height: 500px;
+	float: left;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: center;
+	border: 2px solid #000;
+}
+a{
+	text-decoration: none;
+	color: #609;
+}
+a:hover{
+	color: red;
+}
+.menu{
+	border:1px solid #609;
+	width: 198px;
+	height: 20px;
+	margin-top: 10px;
+}
+#phai{
+	width: 800px;
+	min-height: 500px;
+	float: right;
+	background-color:; 
+	
+}
+#cuoi{
+	text-align: center;
+	width: 100%;
+	min-height: 100px;
+	background-color: #FF9;
+	clear: both;
+}
