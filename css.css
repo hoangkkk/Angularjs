@@ -5,22 +5,22 @@
 #khung{
 	width: 1020px;
 	margin: auto;
-	background-image:;
-	background-color:;
+	/* background-image:;
+	background-color:; */
 }
 #dau{
-	color:#0FF
+	color:#0FF;
 	width: 100%;
 	min-height: 100px;
 	padding-top: 10px;
-	background-color:;
+	/* background-color:; */
 	background-color: #000;
 }
 #giua{ 
 	width:100%; 
 	min-height: 500px; 
 	clear: both;
-	background-color:;
+	/* background-color:; */
 }
 #trai{
 	width: 200px;
@@ -48,7 +48,7 @@ a:hover{
 	width: 800px;
 	min-height: 500px;
 	float: right;
-	background-color:; 
+	/* background-color:;  */
 	
 }
 #cuoi{

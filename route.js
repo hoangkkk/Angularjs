@@ -34,6 +34,7 @@ app.config(function ($routeProvider, $locationProvider) {
    .otherwise({ redirectTo: '/' })
    $locationProvider.html5Mode(true);
 });
+
 app.controller('controller1', function ($scope, $http) {
     $http.get("http://localhost:8080/angularjs/controller/layDuLieuLoai.php")
   .then(function(res) {
